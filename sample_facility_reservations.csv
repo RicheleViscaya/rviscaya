@@ -1,0 +1,511 @@
+Reservation_ID,Facility_Type,User_Type,Participants,Lead_Time,Usage_Status,Actual_Attendance,Cancellation_Days_Before
+RES-1480,Sports Hall,External,25.0,10,No-Show,,
+RES-1449,Sports Hall,Student,10.0,20,Cancelled,,2.0
+RES-1475,Lab,Faculty,25.0,0,Used,22.0,
+RES-1434,Lab,Faculty,10.0,10,Used,9.0,
+RES-1368,Lab,Student,10.0,4,Used,9.0,
+RES-1055,Auditorium,Student,-5.0,10,Cancelled,,1.0
+RES-1322,Lab,Student,10.0,4,Used,4.0,
+RES-1076,Lab,External,25.0,10,No-Show,,
+RES-1470,Sports Hall,Student,100.0,0,Used,90.0,
+RES-1347,Lab,Faculty,25.0,-2,Used,10.0,
+RES-1415,Lab,External,0.0,0,Used,0.0,
+RES-1220,Lab,Faculty,10.0,0,Used,4.0,
+RES-1117,Auditorium,Student,50.0,4,Cancelled,,1.0
+RES-1249,Sports Hall,External,100.0,4,Used,40.0,
+RES-1173,Conference Room,Faculty,50.0,0,Used,0.0,
+RES-1093,Sports Hall,Faculty,10.0,4,Used,9.0,
+RES-1325,Auditorium,Student,50.0,0,Cancelled,,1.0
+RES-1275,Sports Hall,External,25.0,4,Used,22.0,
+RES-1342,Auditorium,Faculty,25.0,0,No-Show,,
+RES-1070,Lab,Student,50.0,4,Used,50.0,
+RES-1396,Auditorium,Student,25.0,10,Used,22.0,
+RES-1009,Sports Hall,Student,25.0,10,Used,22.0,
+RES-1250,Auditorium,Student,-5.0,10,Used,-2.0,
+RES-1408,Lab,Student,50.0,10,Cancelled,,5.0
+RES-1423,Lab,Faculty,25.0,4,Used,10.0,
+RES-1451,Conference Room,Student,25.0,0,Used,25.0,
+RES-1172,Lab,External,10.0,10,Cancelled,,1.0
+RES-1030,Auditorium,Faculty,25.0,0,No-Show,,
+RES-1448,Lab,External,50.0,0,Used,20.0,
+RES-1090,Lab,External,10.0,0,Used,9.0,
+RES-1381,Conference Room,Faculty,10.0,4,Used,9.0,
+RES-1131,Conference Room,External,25.0,10,Used,10.0,
+RES-1364,Auditorium,Student,25.0,4,Used,22.0,
+RES-1073,Lab,Faculty,100.0,10,Cancelled,,4.0
+RES-1210,Auditorium,External,50.0,10,Used,45.0,
+RES-1329,Lab,Student,10.0,4,Used,9.0,
+RES-1369,Conference Room,Student,25.0,10,No-Show,,
+RES-1101,Auditorium,Faculty,25.0,0,Used,0.0,
+RES-1218,Conference Room,Faculty,50.0,10,Used,45.0,
+RES-1154,Lab,External,25.0,20,Used,22.0,
+RES-1225,Conference Room,Student,50.0,0,No-Show,,
+RES-1399,Sports Hall,Faculty,25.0,0,Used,10.0,
+RES-1063,Auditorium,Faculty,50.0,20,No-Show,,
+RES-1002,Conference Room,External,-5.0,4,Used,-4.0,
+RES-1441,Lab,External,0.0,4,Used,0.0,
+RES-1340,Lab,Student,10.0,0,Cancelled,,3.0
+RES-1082,Auditorium,Student,100.0,4,Used,90.0,
+RES-1284,Sports Hall,External,100.0,0,Used,0.0,
+RES-1209,Sports Hall,Student,25.0,0,Cancelled,,3.0
+RES-1471,Sports Hall,Student,10.0,20,Cancelled,,3.0
+RES-1181,Conference Room,Student,10.0,10,Used,4.0,
+RES-1077,Auditorium,Faculty,25.0,10,Used,10.0,
+RES-1296,Conference Room,Student,,4,Used,4.0,
+RES-1452,Auditorium,Student,50.0,10,Used,45.0,
+RES-1495,Sports Hall,Student,0.0,10,Cancelled,,1.0
+RES-1425,Auditorium,Student,25.0,0,Used,25.0,
+RES-1033,Lab,Faculty,100.0,10,Cancelled,,4.0
+RES-1079,Auditorium,Student,25.0,10,Cancelled,,4.0
+RES-1417,Auditorium,Student,25.0,10,Used,22.0,
+RES-1167,Auditorium,External,25.0,0,Used,22.0,
+RES-1068,Lab,Student,10.0,4,Used,9.0,
+RES-1000,Auditorium,Faculty,10.0,10,Used,9.0,
+RES-1084,Lab,External,100.0,4,Cancelled,,0.0
+RES-1011,Conference Room,External,25.0,0,Used,10.0,
+RES-1229,Lab,Faculty,10.0,4,Used,9.0,
+RES-1022,Conference Room,Student,100.0,10,Used,100.0,
+RES-1323,Sports Hall,Faculty,50.0,4,Used,45.0,
+RES-1078,Sports Hall,External,0.0,20,Cancelled,,3.0
+RES-1247,Sports Hall,Student,10.0,-2,No-Show,,
+RES-1072,Conference Room,Student,25.0,4,Used,25.0,
+RES-1474,Lab,Student,25.0,0,Cancelled,,1.0
+RES-1335,Sports Hall,Faculty,50.0,0,Used,20.0,
+RES-1018,Auditorium,Student,10.0,0,Used,9.0,
+RES-1280,Lab,Student,25.0,0,Cancelled,,0.0
+RES-1124,Lab,External,25.0,4,Used,22.0,
+RES-1442,Auditorium,Student,10.0,-2,Cancelled,,3.0
+RES-1248,Lab,Faculty,50.0,4,Used,0.0,
+RES-1039,Auditorium,External,10.0,4,No-Show,,
+RES-1460,Sports Hall,Faculty,50.0,4,Cancelled,,3.0
+RES-1046,Sports Hall,Student,10.0,0,Used,10.0,
+RES-1301,Lab,Student,25.0,4,No-Show,,
+RES-1195,Lab,Faculty,,4,Used,9.0,
+RES-1358,Sports Hall,Student,50.0,0,Used,50.0,
+RES-1104,Auditorium,External,10.0,0,No-Show,,
+RES-1281,Lab,External,25.0,10,Used,25.0,
+RES-1148,Sports Hall,Faculty,25.0,20,Used,22.0,
+RES-1155,Auditorium,Student,10.0,4,No-Show,,
+RES-1446,Conference Room,Faculty,100.0,0,Used,40.0,
+RES-1182,Sports Hall,Student,10.0,10,Used,9.0,
+RES-1069,Sports Hall,Faculty,25.0,4,Used,10.0,
+RES-1244,Sports Hall,Faculty,25.0,10,Cancelled,,2.0
+RES-1298,Auditorium,Faculty,50.0,4,Used,20.0,
+RES-1412,Lab,External,50.0,20,Used,45.0,
+RES-1262,Lab,Student,25.0,-2,Cancelled,,2.0
+RES-1302,Sports Hall,External,50.0,0,Cancelled,,0.0
+RES-1493,Lab,Student,,0,Used,9.0,
+RES-1180,Conference Room,Student,50.0,10,Cancelled,,1.0
+RES-1374,Lab,Faculty,100.0,20,Used,100.0,
+RES-1132,Sports Hall,Student,10.0,10,No-Show,,
+RES-1341,Conference Room,Faculty,50.0,4,Used,0.0,
+RES-1437,Sports Hall,Student,25.0,4,Cancelled,,4.0
+RES-1176,Sports Hall,External,25.0,10,Used,10.0,
+RES-1310,Sports Hall,Student,25.0,-2,Used,10.0,
+RES-1349,Lab,External,10.0,10,Used,9.0,
+RES-1485,Sports Hall,External,,20,Cancelled,,3.0
+RES-1137,Sports Hall,Faculty,25.0,20,Used,10.0,
+RES-1497,Sports Hall,Student,50.0,0,Cancelled,,4.0
+RES-1271,Lab,Faculty,25.0,10,No-Show,,
+RES-1440,Conference Room,Student,10.0,0,Used,9.0,
+RES-1353,Sports Hall,External,,10,Cancelled,,1.0
+RES-1086,Auditorium,Student,50.0,4,Used,45.0,
+RES-1075,Lab,Faculty,25.0,0,Used,25.0,
+RES-1447,Sports Hall,External,25.0,-2,Used,0.0,
+RES-1015,Lab,Student,10.0,0,Cancelled,,1.0
+RES-1203,Lab,External,50.0,4,Used,45.0,
+RES-1274,Auditorium,Student,10.0,4,No-Show,,
+RES-1393,Auditorium,Student,10.0,0,No-Show,,
+RES-1019,Auditorium,External,25.0,0,Cancelled,,1.0
+RES-1453,Lab,Student,100.0,20,Used,90.0,
+RES-1338,Lab,Student,50.0,10,Used,45.0,
+RES-1056,Sports Hall,Student,100.0,20,No-Show,,
+RES-1333,Conference Room,Faculty,100.0,0,Used,0.0,
+RES-1494,Auditorium,External,25.0,4,Used,10.0,
+RES-1238,Lab,Student,10.0,4,Cancelled,,1.0
+RES-1405,Conference Room,Faculty,25.0,4,Cancelled,,2.0
+RES-1307,Auditorium,Student,50.0,4,Used,20.0,
+RES-1468,Lab,Faculty,50.0,4,No-Show,,
+RES-1431,Auditorium,Student,25.0,4,Cancelled,,3.0
+RES-1489,Sports Hall,Faculty,,0,No-Show,,
+RES-1025,Lab,Student,25.0,0,Cancelled,,4.0
+RES-1365,Sports Hall,External,25.0,10,No-Show,,
+RES-1042,Auditorium,External,0.0,4,Cancelled,,5.0
+RES-1140,Sports Hall,Faculty,25.0,10,Cancelled,,3.0
+RES-1418,Lab,Student,50.0,4,Used,45.0,
+RES-1316,Lab,External,25.0,10,No-Show,,
+RES-1126,Lab,Faculty,25.0,4,Used,22.0,
+RES-1332,Auditorium,Student,25.0,4,Used,22.0,
+RES-1031,Conference Room,Faculty,50.0,0,Cancelled,,0.0
+RES-1113,Sports Hall,External,100.0,4,Used,90.0,
+RES-1153,Sports Hall,Student,10.0,0,Used,10.0,
+RES-1211,Sports Hall,Faculty,50.0,4,Used,50.0,
+RES-1422,Lab,Faculty,25.0,4,Cancelled,,4.0
+RES-1057,Sports Hall,Student,10.0,4,Used,4.0,
+RES-1266,Lab,Student,10.0,20,Used,10.0,
+RES-1024,Auditorium,Student,50.0,10,Cancelled,,3.0
+RES-1017,Lab,Faculty,-5.0,20,Cancelled,,3.0
+RES-1185,Auditorium,Student,50.0,0,Used,50.0,
+RES-1066,Sports Hall,Faculty,25.0,0,No-Show,,
+RES-1402,Auditorium,Student,100.0,10,Cancelled,,5.0
+RES-1396,Auditorium,Student,25.0,10,Used,22.0,
+RES-1094,Lab,Student,25.0,10,Used,22.0,
+RES-1496,Sports Hall,Faculty,50.0,0,Cancelled,,5.0
+RES-1354,Sports Hall,Student,50.0,10,Used,45.0,
+RES-1023,Conference Room,Faculty,-5.0,10,Used,-2.0,
+RES-1231,Sports Hall,Student,,0,Used,9.0,
+RES-1265,Lab,Student,50.0,0,Cancelled,,2.0
+RES-1208,Lab,Student,10.0,10,Used,10.0,
+RES-1005,Conference Room,Faculty,25.0,4,Used,22.0,
+RES-1116,Auditorium,Faculty,10.0,0,No-Show,,
+RES-1045,Auditorium,Student,25.0,4,Cancelled,,4.0
+RES-1394,Lab,Faculty,50.0,0,Cancelled,,2.0
+RES-1016,Sports Hall,Student,-5.0,0,Used,-2.0,
+RES-1472,Lab,Student,10.0,10,Cancelled,,5.0
+RES-1461,Lab,Student,-5.0,4,Used,-4.0,
+RES-1003,Auditorium,Faculty,10.0,4,Cancelled,,4.0
+RES-1227,Sports Hall,Student,25.0,10,Used,25.0,
+RES-1482,Sports Hall,Faculty,25.0,10,Used,10.0,
+RES-1060,Auditorium,Student,100.0,20,Used,90.0,
+RES-1110,Sports Hall,Faculty,10.0,0,Used,9.0,
+RES-1324,Conference Room,External,25.0,10,Used,10.0,
+RES-1297,Auditorium,Student,10.0,0,Cancelled,,3.0
+RES-1029,Auditorium,Student,25.0,0,Cancelled,,5.0
+RES-1192,Lab,Student,50.0,0,Used,50.0,
+RES-1464,Sports Hall,External,,10,Used,9.0,
+RES-1026,Sports Hall,External,100.0,4,Used,90.0,
+RES-1007,Auditorium,External,25.0,4,Cancelled,,0.0
+RES-1462,Conference Room,Student,,4,Cancelled,,3.0
+RES-1108,Lab,Faculty,100.0,4,Used,90.0,
+RES-1037,Sports Hall,Student,25.0,10,Used,22.0,
+RES-1157,Auditorium,Student,10.0,10,Used,10.0,
+RES-1476,Sports Hall,Student,25.0,4,Used,22.0,
+RES-1118,Sports Hall,Student,10.0,20,Used,9.0,
+RES-1114,Lab,Student,100.0,10,Used,90.0,
+RES-1175,Lab,Student,0.0,20,Cancelled,,4.0
+RES-1194,Lab,External,50.0,10,Used,45.0,
+RES-1318,Lab,Faculty,50.0,4,Used,50.0,
+RES-1144,Sports Hall,Faculty,25.0,0,Used,22.0,
+RES-1376,Conference Room,Student,50.0,0,Cancelled,,2.0
+RES-1429,Auditorium,Faculty,25.0,4,Used,25.0,
+RES-1204,Lab,Student,0.0,4,Used,0.0,
+RES-1321,Sports Hall,Faculty,-5.0,4,Cancelled,,4.0
+RES-1362,Lab,Faculty,25.0,20,Used,22.0,
+RES-1454,Lab,External,25.0,20,Used,10.0,
+RES-1141,Sports Hall,External,50.0,0,No-Show,,
+RES-1494,Auditorium,External,25.0,4,Used,10.0,
+RES-1067,Lab,Student,50.0,0,Used,20.0,
+RES-1261,Auditorium,Student,25.0,0,Used,22.0,
+RES-1168,Lab,Student,50.0,0,Cancelled,,0.0
+RES-1440,Conference Room,Student,10.0,0,Used,9.0,
+RES-1383,Sports Hall,Student,100.0,10,Used,40.0,
+RES-1245,Conference Room,Student,10.0,4,No-Show,,
+RES-1193,Conference Room,Student,100.0,10,Used,100.0,
+RES-1255,Auditorium,Student,50.0,4,No-Show,,
+RES-1109,Conference Room,Student,10.0,4,Used,9.0,
+RES-1487,Lab,Student,25.0,10,Used,25.0,
+RES-1145,Lab,External,25.0,4,Used,0.0,
+RES-1092,Sports Hall,Student,25.0,20,Used,25.0,
+RES-1152,Lab,Faculty,10.0,0,Used,4.0,
+RES-1228,Auditorium,Student,100.0,0,Cancelled,,5.0
+RES-1416,Lab,Student,25.0,10,Used,25.0,
+RES-1083,Lab,Student,50.0,0,Used,20.0,
+RES-1272,Lab,Faculty,25.0,4,No-Show,,
+RES-1165,Lab,Faculty,50.0,10,Used,20.0,
+RES-1163,Lab,Student,10.0,0,Cancelled,,2.0
+RES-1199,Lab,Student,50.0,10,Used,45.0,
+RES-1237,Auditorium,Student,25.0,0,Used,0.0,
+RES-1074,Lab,External,50.0,0,Cancelled,,3.0
+RES-1314,Lab,Student,10.0,10,No-Show,,
+RES-1222,Auditorium,Student,50.0,10,Used,20.0,
+RES-1479,Sports Hall,Student,25.0,0,Used,22.0,
+RES-1119,Sports Hall,Student,50.0,0,No-Show,,
+RES-1286,Lab,External,25.0,0,Cancelled,,1.0
+RES-1304,Conference Room,Student,50.0,10,Used,50.0,
+RES-1424,Sports Hall,Student,25.0,0,Cancelled,,5.0
+RES-1360,Conference Room,Faculty,50.0,4,Used,50.0,
+RES-1407,Conference Room,Student,10.0,0,Cancelled,,2.0
+RES-1234,Conference Room,Student,10.0,10,Used,9.0,
+RES-1380,Sports Hall,Student,25.0,4,Cancelled,,1.0
+RES-1478,Auditorium,Faculty,25.0,10,Cancelled,,1.0
+RES-1390,Auditorium,Student,100.0,0,Used,100.0,
+RES-1278,Conference Room,Faculty,50.0,4,Used,20.0,
+RES-1036,Lab,Faculty,25.0,10,No-Show,,
+RES-1196,Sports Hall,Faculty,10.0,0,No-Show,,
+RES-1139,Lab,External,50.0,10,No-Show,,
+RES-1371,Lab,Student,,4,No-Show,,
+RES-1253,Lab,Student,25.0,10,Used,22.0,
+RES-1289,Lab,Faculty,25.0,0,Used,22.0,
+RES-1290,Conference Room,Student,25.0,10,Used,22.0,
+RES-1059,Lab,Student,50.0,10,Used,45.0,
+RES-1111,Lab,Faculty,25.0,10,Used,22.0,
+RES-1089,Sports Hall,Student,25.0,0,Used,22.0,
+RES-1268,Lab,Student,25.0,0,Used,22.0,
+RES-1006,Auditorium,Student,100.0,10,Cancelled,,0.0
+RES-1367,Auditorium,Faculty,10.0,0,Used,10.0,
+RES-1351,Lab,Student,50.0,20,Used,45.0,
+RES-1392,Sports Hall,Student,10.0,4,Cancelled,,3.0
+RES-1158,Auditorium,Faculty,25.0,4,No-Show,,
+RES-1150,Auditorium,Student,10.0,0,Cancelled,,3.0
+RES-1177,Conference Room,Student,25.0,4,No-Show,,
+RES-1421,Lab,External,25.0,0,Cancelled,,4.0
+RES-1184,Auditorium,Faculty,10.0,0,Used,9.0,
+RES-1287,Lab,Student,25.0,10,No-Show,,
+RES-1010,Lab,Student,,0,Cancelled,,0.0
+RES-1388,Lab,Student,100.0,10,Cancelled,,5.0
+RES-1103,Conference Room,Faculty,50.0,10,Used,45.0,
+RES-1081,Sports Hall,Faculty,100.0,0,Cancelled,,0.0
+RES-1038,Lab,Student,25.0,10,Cancelled,,2.0
+RES-1320,Conference Room,Student,25.0,20,Cancelled,,1.0
+RES-1198,Lab,Faculty,25.0,20,Used,22.0,
+RES-1262,Lab,Student,25.0,-2,Cancelled,,2.0
+RES-1146,Lab,Student,0.0,0,No-Show,,
+RES-1400,Lab,Student,25.0,4,Cancelled,,1.0
+RES-1147,Sports Hall,Faculty,50.0,10,Used,45.0,
+RES-1312,Lab,External,25.0,10,Used,22.0,
+RES-1291,Lab,Student,50.0,0,Used,20.0,
+RES-1123,Sports Hall,Student,10.0,0,Used,9.0,
+RES-1375,Lab,External,10.0,10,Used,9.0,
+RES-1096,Lab,Faculty,10.0,0,No-Show,,
+RES-1143,Sports Hall,Student,50.0,0,No-Show,,
+RES-1239,Lab,Student,10.0,10,Used,10.0,
+RES-1277,Sports Hall,Student,10.0,4,Used,9.0,
+RES-1097,Lab,Faculty,50.0,0,Used,50.0,
+RES-1356,Auditorium,Faculty,25.0,-2,Cancelled,,0.0
+RES-1122,Lab,External,50.0,10,No-Show,,
+RES-1183,Lab,Student,10.0,0,Cancelled,,5.0
+RES-1202,Sports Hall,Student,50.0,4,Used,45.0,
+RES-1246,Sports Hall,Student,-5.0,10,Used,-2.0,
+RES-1311,Sports Hall,Student,100.0,4,Used,90.0,
+RES-1414,Lab,External,10.0,0,Used,10.0,
+RES-1357,Auditorium,External,25.0,0,Cancelled,,0.0
+RES-1305,Sports Hall,Student,100.0,10,Used,100.0,
+RES-1403,Lab,Student,25.0,0,Used,25.0,
+RES-1382,Auditorium,External,25.0,4,Cancelled,,1.0
+RES-1125,Sports Hall,Student,0.0,10,Used,0.0,
+RES-1488,Sports Hall,Student,50.0,20,No-Show,,
+RES-1223,Conference Room,External,50.0,4,Used,45.0,
+RES-1426,Lab,Student,10.0,4,Used,4.0,
+RES-1219,Sports Hall,External,10.0,10,Cancelled,,2.0
+RES-1129,Sports Hall,External,-5.0,4,Used,-4.0,
+RES-1428,Lab,Faculty,50.0,0,No-Show,,
+RES-1484,Lab,Student,50.0,4,Used,45.0,
+RES-1334,Lab,Faculty,100.0,0,Cancelled,,5.0
+RES-1384,Lab,Student,100.0,0,Used,40.0,
+RES-1409,Conference Room,Student,50.0,10,Used,45.0,
+RES-1361,Lab,Faculty,25.0,20,Cancelled,,4.0
+RES-1299,Auditorium,Faculty,25.0,4,Cancelled,,0.0
+RES-1294,Conference Room,Student,25.0,20,Used,10.0,
+RES-1373,Lab,Student,50.0,20,Cancelled,,4.0
+RES-1346,Conference Room,Student,25.0,0,No-Show,,
+RES-1112,Lab,External,0.0,10,Used,0.0,
+RES-1179,Auditorium,Student,,4,Used,4.0,
+RES-1477,Sports Hall,Student,100.0,20,Used,40.0,
+RES-1352,Sports Hall,External,25.0,4,Used,22.0,
+RES-1336,Lab,Faculty,10.0,0,Used,9.0,
+RES-1491,Auditorium,Faculty,50.0,10,Used,20.0,
+RES-1404,Conference Room,External,10.0,4,No-Show,,
+RES-1233,Sports Hall,Student,50.0,0,Used,50.0,
+RES-1456,Conference Room,Faculty,10.0,4,Used,4.0,
+RES-1317,Auditorium,Faculty,10.0,4,No-Show,,
+RES-1164,Sports Hall,Student,10.0,20,Used,10.0,
+RES-1136,Conference Room,Faculty,25.0,4,Used,22.0,
+RES-1197,Conference Room,Faculty,50.0,10,Used,20.0,
+RES-1258,Lab,Student,25.0,20,Used,22.0,
+RES-1232,Conference Room,Student,10.0,10,Used,4.0,
+RES-1115,Conference Room,Faculty,10.0,0,Cancelled,,3.0
+RES-1120,Sports Hall,Faculty,50.0,0,No-Show,,
+RES-1355,Sports Hall,Student,10.0,20,No-Show,,
+RES-1224,Lab,Student,10.0,4,Cancelled,,2.0
+RES-1410,Auditorium,Faculty,50.0,-2,Used,45.0,
+RES-1438,Auditorium,External,100.0,0,No-Show,,
+RES-1127,Lab,Student,50.0,0,Cancelled,,2.0
+RES-1285,Sports Hall,Student,100.0,10,No-Show,,
+RES-1432,Auditorium,Student,10.0,10,Cancelled,,2.0
+RES-1107,Lab,Student,25.0,0,Cancelled,,0.0
+RES-1377,Sports Hall,Student,50.0,0,Cancelled,,3.0
+RES-1331,Lab,Faculty,25.0,20,Used,22.0,
+RES-1133,Lab,Student,50.0,10,No-Show,,
+RES-1370,Auditorium,Faculty,10.0,0,Cancelled,,4.0
+RES-1044,Conference Room,Student,10.0,4,Used,10.0,
+RES-1470,Sports Hall,Student,100.0,0,Used,90.0,
+RES-1065,Sports Hall,Faculty,100.0,4,Cancelled,,2.0
+RES-1283,Lab,Faculty,50.0,0,Cancelled,,4.0
+RES-1085,Lab,Faculty,50.0,20,Used,0.0,
+RES-1242,Lab,External,,0,Cancelled,,0.0
+RES-1186,Lab,Student,25.0,4,Used,10.0,
+RES-1391,Lab,External,-5.0,10,Used,-4.0,
+RES-1159,Auditorium,Student,50.0,-2,Used,45.0,
+RES-1012,Auditorium,Student,25.0,4,Used,22.0,
+RES-1035,Lab,Student,50.0,4,Used,50.0,
+RES-1028,Lab,Faculty,,0,Used,9.0,
+RES-1170,Lab,Student,25.0,0,No-Show,,
+RES-1142,Conference Room,Student,50.0,4,Used,50.0,
+RES-1406,Lab,Student,100.0,4,Used,40.0,
+RES-1301,Lab,Student,25.0,4,No-Show,,
+RES-1221,Sports Hall,Student,10.0,0,Used,9.0,
+RES-1095,Auditorium,Student,25.0,10,Used,0.0,
+RES-1051,Lab,Student,10.0,4,No-Show,,
+RES-1240,Auditorium,Student,50.0,0,Cancelled,,0.0
+RES-1398,Sports Hall,Student,25.0,0,No-Show,,
+RES-1386,Auditorium,Student,50.0,0,Cancelled,,4.0
+RES-1178,Conference Room,Student,10.0,10,No-Show,,
+RES-1041,Conference Room,Faculty,50.0,0,No-Show,,
+RES-1444,Lab,Student,10.0,10,Used,4.0,
+RES-1395,Sports Hall,External,10.0,0,Used,9.0,
+RES-1206,Lab,Faculty,-5.0,0,No-Show,,
+RES-1282,Lab,Student,0.0,0,Used,0.0,
+RES-1254,Lab,Faculty,10.0,4,Cancelled,,1.0
+RES-1420,Auditorium,Student,50.0,4,Cancelled,,1.0
+RES-1004,Lab,Faculty,50.0,10,Used,45.0,
+RES-1256,Auditorium,Student,50.0,0,Used,50.0,
+RES-1457,Sports Hall,Faculty,25.0,0,Used,22.0,
+RES-1100,Conference Room,Student,10.0,20,Cancelled,,4.0
+RES-1226,Lab,Student,25.0,4,Used,22.0,
+RES-1241,Auditorium,Student,25.0,0,Cancelled,,3.0
+RES-1213,Auditorium,External,25.0,10,Used,22.0,
+RES-1436,Lab,External,10.0,4,Cancelled,,0.0
+RES-1171,Sports Hall,Faculty,50.0,4,No-Show,,
+RES-1098,Lab,External,50.0,10,Used,45.0,
+RES-1292,Conference Room,Student,25.0,0,Used,25.0,
+RES-1215,Auditorium,Student,25.0,10,No-Show,,
+RES-1061,Sports Hall,Student,25.0,4,Used,10.0,
+RES-1047,Lab,Student,50.0,10,Cancelled,,2.0
+RES-1032,Lab,Student,25.0,4,Cancelled,,0.0
+RES-1267,Lab,Student,100.0,0,Cancelled,,5.0
+RES-1327,Sports Hall,Student,25.0,4,Used,10.0,
+RES-1200,Auditorium,Student,25.0,20,Cancelled,,5.0
+RES-1455,Lab,External,10.0,20,Used,9.0,
+RES-1027,Lab,External,25.0,-2,Used,10.0,
+RES-1397,Lab,Student,100.0,0,Used,90.0,
+RES-1230,Lab,Student,10.0,20,Used,9.0,
+RES-1260,Lab,Faculty,0.0,0,No-Show,,
+RES-1378,Sports Hall,Faculty,50.0,4,Used,50.0,
+RES-1288,Sports Hall,Faculty,25.0,10,No-Show,,
+RES-1162,Lab,Student,50.0,-2,Cancelled,,3.0
+RES-1433,Conference Room,Faculty,10.0,10,Cancelled,,5.0
+RES-1138,Auditorium,Faculty,10.0,0,Used,10.0,
+RES-1062,Sports Hall,External,10.0,10,Used,10.0,
+RES-1135,Lab,Student,25.0,4,Cancelled,,0.0
+RES-1128,Lab,Faculty,50.0,0,Cancelled,,1.0
+RES-1486,Sports Hall,Student,100.0,0,Used,90.0,
+RES-1008,Lab,Student,50.0,0,Cancelled,,2.0
+RES-1326,Auditorium,Faculty,25.0,4,Used,22.0,
+RES-1473,Lab,External,25.0,4,Used,22.0,
+RES-1064,Auditorium,Faculty,25.0,10,Used,22.0,
+RES-1300,Auditorium,Faculty,10.0,4,Used,9.0,
+RES-1014,Sports Hall,Student,25.0,10,Used,0.0,
+RES-1156,Lab,External,10.0,0,Used,10.0,
+RES-1040,Sports Hall,External,10.0,10,Cancelled,,0.0
+RES-1379,Auditorium,Faculty,25.0,4,Used,10.0,
+RES-1469,Sports Hall,Student,10.0,4,Used,4.0,
+RES-1411,Auditorium,External,100.0,0,No-Show,,
+RES-1216,Lab,Faculty,25.0,0,Used,22.0,
+RES-1279,Conference Room,External,25.0,4,Used,25.0,
+RES-1481,Lab,External,10.0,4,Used,9.0,
+RES-1439,Auditorium,Student,100.0,0,No-Show,,
+RES-1337,Auditorium,External,25.0,4,Used,22.0,
+RES-1236,Sports Hall,Student,10.0,10,No-Show,,
+RES-1207,Auditorium,Faculty,25.0,4,Cancelled,,2.0
+RES-1212,Lab,External,25.0,20,Cancelled,,4.0
+RES-1295,Conference Room,Student,25.0,0,Cancelled,,1.0
+RES-1499,Sports Hall,Student,50.0,4,Used,50.0,
+RES-1251,Conference Room,Student,10.0,0,Cancelled,,0.0
+RES-1498,Lab,External,25.0,10,Used,10.0,
+RES-1467,Conference Room,Student,10.0,10,No-Show,,
+RES-1303,Sports Hall,Faculty,10.0,10,Used,4.0,
+RES-1350,Sports Hall,Student,50.0,0,Used,45.0,
+RES-1269,Lab,Faculty,25.0,10,Used,25.0,
+RES-1201,Conference Room,Student,25.0,20,Cancelled,,0.0
+RES-1161,Conference Room,External,50.0,4,Used,45.0,
+RES-1043,Lab,External,50.0,0,Used,20.0,
+RES-1217,Lab,Student,25.0,4,No-Show,,
+RES-1401,Conference Room,Student,10.0,0,Used,10.0,
+RES-1190,Conference Room,Student,,10,Used,10.0,
+RES-1309,Lab,External,100.0,0,Cancelled,,5.0
+RES-1259,Sports Hall,Student,100.0,20,Used,90.0,
+RES-1105,Auditorium,Faculty,50.0,0,Cancelled,,4.0
+RES-1053,Auditorium,External,10.0,4,Used,9.0,
+RES-1389,Conference Room,Faculty,10.0,4,Cancelled,,1.0
+RES-1001,Sports Hall,External,25.0,20,No-Show,,
+RES-1450,Lab,Faculty,50.0,20,Used,45.0,
+RES-1492,Auditorium,Faculty,50.0,0,Used,20.0,
+RES-1049,Lab,Student,10.0,0,No-Show,,
+RES-1419,Conference Room,Faculty,,20,Used,9.0,
+RES-1080,Auditorium,Student,,10,Used,9.0,
+RES-1205,Lab,Faculty,10.0,20,Cancelled,,0.0
+RES-1034,Sports Hall,Student,25.0,0,Used,22.0,
+RES-1430,Conference Room,Student,100.0,10,Used,40.0,
+RES-1263,Lab,Student,100.0,0,Cancelled,,0.0
+RES-1427,Conference Room,External,10.0,10,Used,9.0,
+RES-1366,Auditorium,External,0.0,20,No-Show,,
+RES-1091,Auditorium,Student,,0,No-Show,,
+RES-1339,Conference Room,Faculty,25.0,10,Used,10.0,
+RES-1483,Lab,Student,10.0,0,Used,9.0,
+RES-1052,Auditorium,Student,10.0,0,Used,4.0,
+RES-1345,Auditorium,External,25.0,4,Used,22.0,
+RES-1264,Conference Room,External,25.0,0,Used,10.0,
+RES-1241,Auditorium,Student,25.0,0,Cancelled,,3.0
+RES-1013,Auditorium,Student,100.0,10,Used,100.0,
+RES-1315,Lab,External,50.0,4,Used,20.0,
+RES-1088,Lab,Student,25.0,0,Used,22.0,
+RES-1387,Conference Room,Student,25.0,0,Used,10.0,
+RES-1273,Sports Hall,External,25.0,10,Used,10.0,
+RES-1166,Auditorium,External,50.0,10,Used,45.0,
+RES-1328,Auditorium,External,10.0,20,Used,4.0,
+RES-1159,Auditorium,Student,50.0,-2,Used,45.0,
+RES-1134,Sports Hall,Student,100.0,20,No-Show,,
+RES-1306,Sports Hall,Faculty,25.0,0,Used,22.0,
+RES-1490,Auditorium,Faculty,10.0,0,Used,9.0,
+RES-1319,Conference Room,Student,50.0,4,No-Show,,
+RES-1243,Sports Hall,Student,,20,Used,4.0,
+RES-1054,Auditorium,Student,25.0,0,Cancelled,,2.0
+RES-1363,Lab,Faculty,10.0,4,Used,9.0,
+RES-1050,Lab,Student,50.0,0,Cancelled,,5.0
+RES-1465,Auditorium,Student,,0,Used,9.0,
+RES-1174,Lab,Faculty,25.0,10,Cancelled,,3.0
+RES-1445,Auditorium,Student,25.0,20,Used,22.0,
+RES-1189,Lab,Faculty,50.0,4,Used,45.0,
+RES-1277,Sports Hall,Student,10.0,4,Used,9.0,
+RES-1463,Lab,Student,25.0,0,Cancelled,,0.0
+RES-1187,Lab,External,100.0,4,Used,90.0,
+RES-1169,Conference Room,Student,10.0,10,Used,4.0,
+RES-1058,Lab,Faculty,25.0,10,Used,10.0,
+RES-1048,Auditorium,Faculty,0.0,0,Used,0.0,
+RES-1344,Auditorium,Student,100.0,0,No-Show,,
+RES-1235,Auditorium,Faculty,10.0,10,Used,10.0,
+RES-1252,Sports Hall,Student,10.0,10,No-Show,,
+RES-1021,Lab,Student,50.0,4,Used,45.0,
+RES-1313,Lab,Faculty,10.0,0,Used,9.0,
+RES-1459,Auditorium,Faculty,25.0,4,Used,22.0,
+RES-1160,Lab,Student,10.0,0,Used,4.0,
+RES-1276,Lab,Faculty,10.0,10,Used,9.0,
+RES-1443,Lab,Student,10.0,0,Used,0.0,
+RES-1191,Lab,External,25.0,20,No-Show,,
+RES-1385,Conference Room,Student,10.0,0,No-Show,,
+RES-1293,Lab,Student,25.0,-2,Used,10.0,
+RES-1413,Conference Room,External,100.0,4,Used,100.0,
+RES-1343,Sports Hall,Student,25.0,20,Used,25.0,
+RES-1257,Lab,External,50.0,20,Used,45.0,
+RES-1308,Lab,Faculty,10.0,4,Used,9.0,
+RES-1149,Lab,Student,-5.0,10,Cancelled,,4.0
+RES-1130,Lab,External,-5.0,4,Used,-4.0,
+RES-1151,Conference Room,External,-5.0,0,Used,-4.0,
+RES-1359,Sports Hall,Faculty,10.0,0,Cancelled,,3.0
+RES-1099,Conference Room,Faculty,10.0,0,Cancelled,,0.0
+RES-1372,Lab,External,25.0,20,Used,22.0,
+RES-1087,Sports Hall,Student,50.0,4,Used,50.0,
+RES-1458,Auditorium,Student,100.0,10,Used,90.0,
+RES-1330,Auditorium,Faculty,50.0,4,Used,50.0,
+RES-1214,Auditorium,Faculty,0.0,0,No-Show,,
+RES-1466,Auditorium,External,25.0,10,No-Show,,
+RES-1121,Auditorium,Student,10.0,4,Used,10.0,
+RES-1347,Lab,Faculty,25.0,-2,Used,10.0,
+RES-1020,Auditorium,External,50.0,0,Used,50.0,
+RES-1188,Auditorium,Faculty,10.0,4,No-Show,,
+RES-1071,Sports Hall,External,25.0,4,Used,25.0,
+RES-1106,Sports Hall,External,10.0,20,Used,4.0,
+RES-1270,Lab,Student,100.0,4,Used,90.0,
+RES-1348,Sports Hall,Student,25.0,4,Used,10.0,
+RES-1435,Lab,Student,100.0,0,Cancelled,,0.0
+RES-1102,Lab,External,50.0,10,Used,45.0,
